@@ -11,11 +11,10 @@
 
 ## About Me
 
-I'm a fullstack developer who builds and ships real-world web and mobile applications. I work across the entire stack — from backend systems and REST APIs, to frontend interfaces, Flutter mobile apps, and Linux VPS deployments.
+I'm a software engineer who architects, builds and ships real-world web and mobile software applications. I work across the entire stack — from backend systems to frontend interfaces (both web and mobile).
 
-- 🔭 Currently learning system design
+- 🔭 Currently learning system design and distributed systems
 - 🌍 Based in Ghana, open to remote opportunities worldwide
-- 💡 Focused on clean architecture, secure auth, and production reliability
 - 📫 Reach me at **ginkoom31@gmail.com**
 
 ---
