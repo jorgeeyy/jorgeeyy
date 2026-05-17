@@ -2,7 +2,7 @@
 
 # Hi, I'm George Inkoom 👋
 
-### Fullstack Software Developer · Web & Mobile
+### Software Engineer
 
 
 </div>
