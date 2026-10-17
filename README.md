@@ -11,10 +11,10 @@
 
 ## About Me
 
-I'm a software engineer who architects, builds and ships real-world web and mobile software applications. I work across the entire stack — from backend systems to frontend interfaces (both web and mobile). I also integrate LLMS into software applications.
+I'm a software engineer focused on AI automation, system integration, and building intelligent software solutions. I integrate LLMs into applications, connect systems through APIs, and develop automated workflows that streamline business processes. With experience across backend systems, web and mobile applications, and database-driven platforms, I bridge software engineering and AI to deliver practical, production-ready solutions.
 
-- 🔭 Currently perfecting my skills on AI Integration into softwares.
-- 🌍 Based in Ghana, open to remote opportunities worldwide
+- 🔭 Currently building my skills in AI integration, intelligent automation, and LLM-powered applications.
+- 🌍 Based in Ghana 🇬🇭 | Open to remote opportunities worldwide.
 - 📫 Reach me at **ginkoom31@gmail.com**
 
 ---
