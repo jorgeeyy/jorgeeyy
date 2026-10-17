@@ -2,7 +2,7 @@
 
 # Hi, I'm George Inkoom 👋
 
-### Software Engineer
+### AI Automation & Integration Engineer
 
 
 </div>
@@ -11,9 +11,9 @@
 
 ## About Me
 
-I'm a software engineer who architects, builds and ships real-world web and mobile software applications. I work across the entire stack — from backend systems to frontend interfaces (both web and mobile).
+I'm a software engineer who architects, builds and ships real-world web and mobile software applications. I work across the entire stack — from backend systems to frontend interfaces (both web and mobile). I also integrate LLMS into software applications.
 
-- 🔭 Currently learning system design and distributed systems
+- 🔭 Currently perfecting my skills on AI Integration into softwares.
 - 🌍 Based in Ghana, open to remote opportunities worldwide
 - 📫 Reach me at **ginkoom31@gmail.com**
 
